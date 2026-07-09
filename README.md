@@ -4,6 +4,13 @@
 **Created by ChatGPT + Konstantinos Andritsopoulos**  
 **Dialogues & Research — July 2026**
 
+## Quick Access
+
+- Download the manuscript: [ED_v1.0.pdf](ED_v1.0.pdf)
+- Latest release: [Educational Domain v1.0](https://github.com/Fosgiver/educational-domain-ddd/releases/tag/v1.0)
+- Usage statement: [USAGE.md](USAGE.md)
+- Citation file: [CITATION.cff](CITATION.cff)
+  
 ## Overview
 
 This repository hosts the first public version of **Educational Domain — Domain-Driven Design Manuscript**.
