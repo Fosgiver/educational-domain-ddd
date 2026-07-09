@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use, reference, discuss, or cite this work, please cite it as below."
+title: "Educational Domain — Domain-Driven Design Manuscript"
+version: "v1.0"
+date-released: 2026-07-09
+authors:
+  - family-names: "Andritsopoulos"
+    given-names: "Konstantinos"
+  - name: "ChatGPT"
+abstract: "A freely available architectural manuscript exploring the Educational Domain through Domain-Driven Design, systems analysis, educational experience, and Human–AI collaboration."
+keywords:
+  - "Domain-Driven Design"
+  - "DDD"
+  - "Educational Domain"
+  - "Educational Software Architecture"
+  - "Systems Analysis"
+  - "Domain Modeling"
+  - "Business Process Modeling"
+  - "Human-AI Collaboration"
+repository-code: "https://github.com/Fosgiver/educational-domain-ddd"
+url: "https://github.com/Fosgiver/educational-domain-ddd"
+preferred-citation:
+  type: generic
+  title: "Educational Domain — Domain-Driven Design Manuscript"
+  authors:
+    - family-names: "Andritsopoulos"
+      given-names: "Konstantinos"
+    - name: "ChatGPT"
+  version: "v1.0"
+  date-released: 2026-07-09
