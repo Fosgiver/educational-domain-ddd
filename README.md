@@ -8,6 +8,7 @@
 
 - Download the manuscript: [ED_v1.0.pdf](ED_v1.0.pdf)
 - Latest release: [Educational Domain v1.0](https://github.com/Fosgiver/educational-domain-ddd/releases/tag/v1.0)
+- DOI / Zenodo record: [10.5281/zenodo.21306352](https://doi.org/10.5281/zenodo.21306352)
 - Usage statement: [USAGE.md](USAGE.md)
 - Citation file: [CITATION.cff](CITATION.cff)
   
